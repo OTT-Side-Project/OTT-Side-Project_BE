@@ -1,10 +1,10 @@
-package com.ottSide.project;
+package com.whatwat.ott;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectApplicationTests {
+class OttApplicationTests {
 
 	@Test
 	void contextLoads() {

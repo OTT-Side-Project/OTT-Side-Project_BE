@@ -1,13 +1,13 @@
-package com.ottSide.project;
+package com.whatwat.ott;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjectApplication {
+public class OttApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjectApplication.class, args);
+		SpringApplication.run(OttApplication.class, args);
 	}
 
 }
